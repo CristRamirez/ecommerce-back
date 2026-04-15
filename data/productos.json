@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo" : "Red Dead Redemption 2",
+        "precio" : 59000,
+        "categoria" : "Mundo Abierto",
+        "stock" : 15
+    },
+    {
+        "id": 2,
+        "titulo" : "Counter Strike 2",
+        "precio" : 15000,
+        "categoria" : "Shooter",
+        "stock" : 30
+    },
+    {
+        "id": 3,
+        "titulo" : "The Elder Scrolls Online",
+        "precio" : 30000,
+        "categoria" : "Role Play Game",
+        "stock" : 20
+    }
+]
